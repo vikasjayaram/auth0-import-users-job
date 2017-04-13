@@ -1,6 +1,4 @@
-# Auth0 Applications to Rules Mapping
-
-This library provides support to get all the rules that are applied to all the applications using Auth0.
+# Auth0 Import Users Job
 
 ### Version
 
