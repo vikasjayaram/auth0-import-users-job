@@ -1,0 +1,19 @@
+{
+  "name": "auth0-import-user-job",
+  "version": "1.0.0",
+  "description": "Import users by creating a job in Auth0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vikasjayaram",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.3.0",
+    "dotenv": "^4.0.0",
+    "form-data": "^2.1.2",
+    "moment": "^2.18.1",
+    "prompt": "^1.0.0",
+    "request": "^2.81.0"
+  }
+}
